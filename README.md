@@ -8,12 +8,12 @@ Make sure you have latest version of node at leat Node v6. Xcode or Android Stud
 ### Step 1:
 Open the terminal and run this command 
 
-`$git clone https://github.com/PulkitAgg/stack-navigation-within-tab-navigation-react-native.git`
+`$git clone https://github.com/arun0311/ReactNative-setup.git`
 
 #### Step 2:
 Migrate to the project which is cloned right now i.e run this commmand 
 
-` cd stack-navigation-within-tab-navigation-react-native/`
+` cd ReactNative-setup/`
 
 ### Step 3 : 
 Install the required packages using this command 
